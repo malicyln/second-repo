@@ -1,5 +1,5 @@
 # num = int(input("..."))
-num = 20
+num = 60
 x = 0
 for i in range(1,num +1) :
   
